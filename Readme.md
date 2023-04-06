@@ -1,4 +1,4 @@
-# Demo
+# Assigment 4
 1.   Using Subqueries
 The orion.Order_Fact table contains information about orders that were placed by Orion Star Sales staff. Create a report that lists the Sales staff whose average quantity of items sold exceeds the company average quantity of items sold.
 a.   Write a query that displays the average Quantity for all rows in the table.
